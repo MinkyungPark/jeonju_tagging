@@ -10,5 +10,6 @@ __pycache__
 *.csv
 *.ipynb_checkpoints/
 *.h5
+*.model
 chromedriver
 database.ini
