@@ -1,11 +1,10 @@
 .vscode
-.vscode
 .DS_Store
 __pycache__
 *.log
 *.txt
 *.pkl
-*.pkl
+*.json
 *.pickle
 *.csv
 *.ipynb_checkpoints/
